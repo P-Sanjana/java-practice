@@ -1,0 +1,20 @@
+<Book>
+<Title>My First XML</Title>
+<Chapters>
+<Chapter>
+<Chapterno>1<Chapterno>
+<CTitle>Introduction to XML</CTitle>
+<Content>What is HTML</Content>
+<Content>What is XML</Content>
+</Contents>
+</Chapter>
+<Chapter>
+<Chapterno>2<Chapterno>
+<CTitle>XML Syntax</CTitle>
+<Contents>
+<Content>Elements must have a closing tag</Content>
+<Content>Elements must be correctly nested</Content>
+</Contents>
+</Chapter>
+</Chapters>
+</Book>
